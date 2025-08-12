@@ -1,10 +1,10 @@
 export const DEFAULT_CODE = `<html>
   <head>
     <title>HTML Sample</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <style type="text/css">
       h1 {
-        color: #CCA3A3;
+        color: #cca3a3;
       }
     </style>
     <script type="text/javascript">
